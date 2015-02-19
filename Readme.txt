@@ -1,1 +1,1 @@
-foobar
+foobar 2.0
